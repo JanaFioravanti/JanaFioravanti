@@ -6,13 +6,13 @@
 ## :sunglasses: Olá! Me chamo Janaína Fioravanti!<br>
 ## :sunglasses: Hello! My name is Janaína Fioravanti!
 -----
-### :speech_balloon: Estou estudando para voltar a atuar na área de Front-End ou Full-Stack.
+#### :speech_balloon: Estou estudando para voltar a atuar na área de Front-End ou Full-Stack.
 -----
-### :speech_balloon: I’m currently learning to get back to be a Front-End Developer or Full-Stack Developer! 
+#### :speech_balloon: I’m currently learning to get back to be a Front-End Developer or Full-Stack Developer! 
 -----
-### :mailbox: Entre em contato comigo pelo [Linkedin](https://www.linkedin.com/in/jana-fioravanti/)
+#### :mailbox: Entre em contato comigo pelo [Linkedin](https://www.linkedin.com/in/jana-fioravanti/)
 -----
-### :mailbox: Reach me trthrough [Linkedin](https://www.linkedin.com/in/jana-fioravanti/)
+#### :mailbox: Reach me trthrough [Linkedin](https://www.linkedin.com/in/jana-fioravanti/)
 -----
 
 <!--
