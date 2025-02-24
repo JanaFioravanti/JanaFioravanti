@@ -1,6 +1,6 @@
 # Sejam Bem-Vindos ao Meu Mundo! 👋
 
-<img width="300" src="https://cdnb.artstation.com/p/assets/images/images/018/523/687/large/joao-pedro-calheiros-miranda-dos-santos-goku-ssgss-final-fixed.jpg?1559694020">
+<img width="600" src="https://cdnb.artstation.com/p/assets/images/images/018/523/687/large/joao-pedro-calheiros-miranda-dos-santos-goku-ssgss-final-fixed.jpg?1559694020">
 
 -----
 ## :sunglasses: Olá! Me chamo Janaína Fioravanti!<br>
