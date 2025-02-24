@@ -1,19 +1,6 @@
-## Hi there 👋
+## Sejam Bem-Vindos ao Meu Mundo! 👋
 
-
-
-  *Itálico* ou _Itálico_
-
-  **Negrito** ou __Negrito__
-
-  ___Negrito e Itálico___
-
-
-  - Lista 01
-  - Lista 02
-    Sublista
-
-<!-- Cabeçalhos -->
+![Gif Nerd](https://www.icegif.com/wp-content/uploads/2024/04/nerd-emoji-icegif-6.gif)
 
 
 <!--
