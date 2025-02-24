@@ -9,7 +9,7 @@
 #### :speech_balloon: I’m currently learning to get back to be a Front-End Developer or Full-Stack Developer! 
 -----
 #### :mailbox: Entre em contato comigo pelo [Linkedin](https://www.linkedin.com/in/jana-fioravanti/)<br>
-#### :mailbox: Reach me trthrough [Linkedin](https://www.linkedin.com/in/jana-fioravanti/)
+#### :mailbox: Reach me through [Linkedin](https://www.linkedin.com/in/jana-fioravanti/)
 -----
 
 <!--
