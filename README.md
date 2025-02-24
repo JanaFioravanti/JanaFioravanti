@@ -11,6 +11,7 @@
 #### :mailbox: Entre em contato comigo pelo [Linkedin](https://www.linkedin.com/in/jana-fioravanti/)<br>
 #### :mailbox: Reach me through [Linkedin](https://www.linkedin.com/in/jana-fioravanti/)
 -----
+![Jana Fioravanti GitHub stats](https://github-readme-stats.vercel.app/api?username=JanaFioravanti&show_icons=true&theme=prussian_icon)
 ![Jana Fioravanti](https://github-readme-stats.vercel.app/api?username=JanaFioravanti&theme=prussian_icons=true)
 <!--
 **JanaFioravanti/JanaFioravanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
