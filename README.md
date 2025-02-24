@@ -2,14 +2,16 @@
 
 
 
-<!-- Cabeçalhos -->
+  *Itálico* ou _Itálico_
 
-    #Título 01
-    ##Título 02
-    ###Título 03
-    ####Título 04
-    #####Título 05
-    ######Título 06
+  **Negrito** ou __Negrito__
+
+  ___Negrito e Itálico___
+
+
+  - Lista 01
+  - Lista 02
+    Sublista
 
 <!-- Cabeçalhos -->
 
